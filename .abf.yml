@@ -1,4 +1,5 @@
 removed_sources:
   Devel-PatchPerl-0.40.tar.gz: 9feada106f597491f9adf217bd53a19a9280b915
-sources:
   Devel-PatchPerl-1.10.tar.gz: dbfb932a3dd631ec4ce12f806ec26848c457b044
+sources:
+  Devel-PatchPerl-1.14.tar.gz: 0fb365c693f98861398ce11b07bda227f1f3b135

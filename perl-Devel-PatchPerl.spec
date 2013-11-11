@@ -1,5 +1,5 @@
 %define upstream_name    Devel-PatchPerl
-%define upstream_version 1.10
+%define upstream_version 1.14
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
@@ -61,5 +61,6 @@ perl Makefile.PL INSTALLDIRS=vendor
 * Mon May 09 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.300.0-1
 + Revision: 672825
 - import perl-Devel-PatchPerl
+
 
 
