@@ -1,11 +1,12 @@
 %define upstream_name    Devel-PatchPerl
-%define upstream_version 1.22
+%define upstream_version 1.24
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
 Release:	1
 
 Summary:	Replacement 'hints' files
+
 
 License:	GPL+ or Artistic
 Group:		Development/Perl
@@ -45,5 +46,6 @@ perl Makefile.PL INSTALLDIRS=vendor
 %{_mandir}/man1/patchperl.1*
 %{_bindir}/patchperl
 %{perl_vendorlib}/*
+
 
 

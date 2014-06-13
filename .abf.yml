@@ -5,5 +5,6 @@ removed_sources:
   Devel-PatchPerl-1.16.tar.gz: fe7a12029a5cee0201fbdf189817b72f095c7942
   Devel-PatchPerl-1.18.tar.gz: 399592bb4cb530173fd74a296de9802a12867223
   Devel-PatchPerl-1.20.tar.gz: a83d0f690f8e412100f11402b041353f35d1db03
-sources:
   Devel-PatchPerl-1.22.tar.gz: 25ece3dc1814e159670da3c639f44975e198e9a8
+sources:
+  Devel-PatchPerl-1.24.tar.gz: 1b12782dcf86a43ce4eacf284cacbe8a20543026
